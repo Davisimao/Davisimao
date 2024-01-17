@@ -9,7 +9,7 @@ Eu sou um jovem que busca a primeira oportunidade de trabalho na área de Desenv
 ## 🛠 Habilidades
 Atualmente, estou aprimorando minhas habilidades no desenvolvimento web, com foco especial nas seguintes áreas:
 
-- **Linguagens de Programação:** JavaScript (ES6+), TypeScript
+- **Linguagens de Programação:** JavaScript TypeScript
 - **Tecnologias Web:** HTML5, CSS3 (incluindo SASS)
 - **Controle de Versão:** Git
 - **Frameworks e Bibliotecas:** - Tenho experiência prática com Bootstrap para o desenvolvimento responsivo e estou atualmente aprofundando meus conhecimentos em TypeScript para aprimorar a estruturação e tipagem dos meus projetos.
