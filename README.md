@@ -12,8 +12,7 @@ Atualmente, estou aprimorando minhas habilidades no desenvolvimento web, com foc
 - **Linguagens de Programação:** JavaScript (ES6+), TypeScript
 - **Tecnologias Web:** HTML5, CSS3 (incluindo SASS)
 - **Controle de Versão:** Git
-- **Frameworks e Bibliotecas:** [Liste aqui quais frameworks ou bibliotecas você já trabalhou ou está estudando, por exemplo: React, Node.js]
-- **Metodologias de Desenvolvimento:** [Se estiver utilizando alguma metodologia específica, como Scrum ou Agile, inclua aqui]
+- **Frameworks e Bibliotecas:** - Tenho experiência prática com Bootstrap para o desenvolvimento responsivo e estou atualmente aprofundando meus conhecimentos em TypeScript para aprimorar a estruturação e tipagem dos meus projetos.
 
 Estou sempre empolgado em aprender novas tecnologias e aplicar esses conhecimentos em projetos práticos. Além disso, estou aberto a colaborações e prontamente me adapto a ambientes dinâmicos. Confira meus projetos abaixo para ver essas habilidades em ação!
 
