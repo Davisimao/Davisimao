@@ -14,7 +14,9 @@ Atualmente, estou aprimorando minhas habilidades no desenvolvimento web, com foc
 - **Controle de Versão:** Git
 - **Frameworks e Bibliotecas:** - Praticando Bootstrap para o desenvolvimento responsivo e atualmente aprofundando meus conhecimentos em TypeScript para aprimorar a estruturação e tipagem dos meus projetos.
 
-Estou sempre empolgado em aprender novas tecnologias e aplicar esses conhecimentos em projetos práticos.Confira meus projetos para ver essas habilidades em ação!
+Estou sempre empolgado em aprender novas tecnologias e aplicar esses conhecimentos em projetos práticos.
+
+Confira meus projetos para ver essas habilidades em ação!
 
 
 
