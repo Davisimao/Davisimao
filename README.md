@@ -10,12 +10,17 @@ Sou um entusiasta de desenvolvimento de software em busca da minha primeira opor
 Atualmente, estou aprimorando minhas habilidades no desenvolvimento web, com ênfase em:
 
 - **Linguagens de Programação:** JavaScript, TypeScript, Python, Java
-- **Tecnologias Web:** HTML5, CSS3 (incluindo SASS)
+- **Tecnologias Web:** HTML, CSS, SASS
 - **Controle de Versão:** Git
-- **Frameworks e Bibliotecas:** 
-    - Prática em Bootstrap para o desenvolvimento responsivo
-    - Aprofundando conhecimentos em TypeScript
-    - Aprendendo e explorando React.
+- **Back-End:**
+    - Mysql e MongoDB
+    - Aprofundando conhecimentos em Node e Java
+- **Front-End:**
+    - Bootstrap e Taiwandcss
+    - TypeScript
+    - React
+    - Iniciando meus estudos em Angular
+
 
 Estou constantemente empolgado em aprender novas tecnologias e aplicar esses conhecimentos em projetos práticos.
 
