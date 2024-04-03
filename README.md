@@ -19,6 +19,7 @@ Atualmente, estou aprimorando minhas habilidades no desenvolvimento web, com ên
     - Bootstrap e Taiwandcss
     - TypeScript
     - React
+    - Next.js
     - Iniciando meus estudos em Angular
 
 
