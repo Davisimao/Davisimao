@@ -27,7 +27,11 @@ Estou constantemente empolgado em aprender novas tecnologias e aplicar esses con
 
 Confira meus projetos para ver essas habilidades em ação!
 
+## 🛠 Histórico de Commits
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=DaviSimao&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+</div>
+
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davisanchessimão/)
