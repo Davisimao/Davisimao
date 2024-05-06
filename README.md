@@ -29,7 +29,7 @@ Confira meus projetos para ver essas habilidades em ação!
 
 ## 🛠 Histórico de Commits
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Davisimao&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Davisimao&theme=dark&locale=pt_BR&fire=EB0000)](https://git.io/streak-stats)
 
 
 
