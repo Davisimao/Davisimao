@@ -28,9 +28,9 @@ Estou constantemente empolgado em aprender novas tecnologias e aplicar esses con
 Confira meus projetos para ver essas habilidades em ação!
 
 ## 🛠 Histórico de Commits
-<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Davisimao)](https://git.io/streak-stats)
-</div>
+
 
 
 ## 🔗 Links
