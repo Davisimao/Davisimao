@@ -32,6 +32,12 @@ Confira meus projetos para ver essas habilidades em ação!
 [![GitHub Streak](https://streak-stats.demolab.com?user=Davisimao&theme=dark&locale=pt_BR&fire=EB0000&ring=EB5C1D)](https://git.io/streak-stats)
 
 
+## Contador de visitas
+
+
+[![visits](https://github-visit-counter.herokuapp.com/{Davisimao}/{https://github.com/Davisimao/Davisimao}/visits.svg)](#)
+
+
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davisanchessimão/)
