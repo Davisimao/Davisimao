@@ -38,5 +38,3 @@ Confira meus projetos para ver essas habilidades em ação!
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://davisimao-dev.vercel.app/)
 
 
-
-[![visits](https://github-visit-counter.herokuapp.com/{Davisimao}/{Davisimao/Davisimao}/visits.svg)](#)
