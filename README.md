@@ -9,7 +9,7 @@ Sou um entusiasta de desenvolvimento de software em busca da minha primeira opor
 ## 🛠 Habilidades
 Atualmente, estou aprimorando minhas habilidades no desenvolvimento web, com ênfase em:
 
-- **Linguagens de Programação:** JavaScript, TypeScript, Python, Java
+- **Linguagens de Programação:** JavaScript, TypeScript
 - **Tecnologias Web:** HTML, CSS, SASS
 - **Controle de Versão:** Git
 - **Back-End:**
