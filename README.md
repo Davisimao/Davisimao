@@ -14,13 +14,12 @@ Atualmente, estou aprimorando minhas habilidades no desenvolvimento web, com ên
 - **Controle de Versão:** Git
 - **Back-End:**
     - Mysql e MongoDB
-    - Aprofundando conhecimentos em Node e Java
+    - Aprofundando conhecimentos em Node.js
 - **Front-End:**
     - Bootstrap e Taiwandcss
     - TypeScript
     - React
-    - Next.js
-    - Iniciando meus estudos em Angular
+    - Angular
 
 
 Estou constantemente empolgado em aprender novas tecnologias e aplicar esses conhecimentos em projetos práticos.
