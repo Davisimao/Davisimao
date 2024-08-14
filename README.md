@@ -1,10 +1,8 @@
 # Olá, eu sou o Davi! 👋
-Atualmente estou no 5º semestre no Tecnologo Análise e Desenvolvimento de Sistemas na Universidade Municipal de São Caetano do Sul.
-
-Também estou fazendo o curso Full Stack JavaScript da OneBitCode, onde realizo a maioria dos meus projetos.
 
 ## 🚀 Sobre mim
-Sou um entusiasta de desenvolvimento de software em busca da minha primeira oportunidade profissional na área. Meu objetivo é aplicar e aprimorar constantemente os conhecimentos adquiridos, contribuindo tanto para o crescimento da empresa quanto para o meu desenvolvimento pessoal.
+Atuando como Desenvolvedor Assistente Full Stack, onde aplico minhas habilidades em desenvolvimento de software e estou constantemente aprimorando meus conhecimentos. 
+
 
 ## 🛠 Habilidades
 Atualmente, estou aprimorando minhas habilidades no desenvolvimento web, com ênfase em:
@@ -13,13 +11,12 @@ Atualmente, estou aprimorando minhas habilidades no desenvolvimento web, com ên
 - **Tecnologias Web:** HTML, CSS, SASS
 - **Controle de Versão:** Git
 - **Back-End:**
-    - Mysql e MongoDB
-    - Aprofundando conhecimentos em Node.js
+    - Postgress e MongoDB
+    - Node.js
 - **Front-End:**
-    - Bootstrap e Taiwandcss
+    - Taiwandcss
     - TypeScript
-    - React
-    - Angular
+    - React;
 
 
 Estou constantemente empolgado em aprender novas tecnologias e aplicar esses conhecimentos em projetos práticos.
