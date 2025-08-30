@@ -1,7 +1,7 @@
 # Olá, eu sou o Davi! 👋
 
 ## 🚀 Sobre mim
-Atuando como Desenvolvedor Full Stack, onde aplico minhas habilidades em desenvolvimento de software e estou constantemente aprimorando meus conhecimentos. 
+Atuando como Desenvolvedor Full Stack, onde aplico minhas habilidades e estou constantemente aprimorando meus conhecimentos. 
 
 ## 🛠️ Habilidades Principais
 
