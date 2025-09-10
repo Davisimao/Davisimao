@@ -28,9 +28,9 @@ Estou constantemente empolgado em aprender novas tecnologias e aplicar esses con
 
 Confira meus projetos para ver essas habilidades em ação!
 
-## 🛠 Histórico de Commits
+## 🛠 Linguagens mais usadas
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Davisimao&theme=dark&locale=pt_BR&fire=EB0000&ring=EB5C1D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davisimao&layout=compact)
 
 
 ## 🔗 Links
