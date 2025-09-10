@@ -30,7 +30,9 @@ Confira meus projetos para ver essas habilidades em ação!
 
 ## 🛠 Linguagens mais usadas
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davisimao&layout=compact)
+
 
 
 ## 🔗 Links
